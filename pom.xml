@@ -37,7 +37,7 @@
 				<configuration> 
         <cloudHubDeployment> 
           <muleVersion>${app.runtime}</muleVersion> 
-          <username>selu.asgedom@gmail.com</username> 
+          <username>reess</username> 
           <password>Avet258741</password> 
           <environment>Sandbox</environment> 
           <!-- <region>eu-central-1</region>  -->
