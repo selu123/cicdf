@@ -37,14 +37,14 @@
 				<configuration> 
         <cloudHubDeployment> 
           <muleVersion>${app.runtime}</muleVersion> 
-          <username>jara</username> 
-          <password>Appf@111213</password> 
+          <username>selu.asgedom@gmail.com</username> 
+          <password>Avet258741</password> 
           <environment>Sandbox</environment> 
           <!-- <region>eu-central-1</region>  -->
           <workerType>Micro</workerType>
           <workers>1</workers> 
           <uri>https://anypoint.mulesoft.com</uri>; 
-          <applicationName>cicd-testing</applicationName> 
+          <applicationName>testhttp123</applicationName> 
         </cloudHubDeployment> 
       </configuration> 
       <executions> 
