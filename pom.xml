@@ -44,7 +44,7 @@
           <workerType>Micro</workerType>
           <workers>1</workers> 
           <uri>https://anypoint.mulesoft.com</uri>; 
-          <applicationName>testhttp123</applicationName> 
+          <applicationName>cicdf</applicationName> 
         </cloudHubDeployment> 
       </configuration> 
       <executions> 
