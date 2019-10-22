@@ -9,6 +9,6 @@ http://www.mulesoft.org/schema/mule/http http://www.mulesoft.org/schema/mule/htt
 	</http:listener-config>
 	<flow name="cicdfFlow" doc:id="0cd20c2b-3e0c-43a1-989c-79ddf35b0be5" >
 		<http:listener doc:name="Listener" doc:id="1f7251b5-7876-48b1-a998-700ec8f9cbb7" config-ref="HTTP_Listener_config" path="/cd"/>
-		<set-payload value='#["success"]' doc:name="Set Payload" doc:id="becdb558-6067-4a77-9502-1ffcb40601a0" />
+		<set-payload value='#["success to getch"]' doc:name="Set Payload" doc:id="becdb558-6067-4a77-9502-1ffcb40601a0" />
 	</flow>
 </mule>
